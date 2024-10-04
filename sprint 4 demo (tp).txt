@@ -1,0 +1,278 @@
+NLP : Natural Language Processing
+
+Applications :
+1. Chatbot
+2. Voice recognition
+3. text classification
+4. Machine translation
+5. Spam detection
+6. Spelling check
+7. Virtual assistance
+8. predict typing
+9. Sentiment analysis
+
+################################################################################
+
+Purpose of NLP :
+
+Unstructured text data converts to numeric form.
+
+###################################################################################
+
+Packages or Libraries for NLP
+1. Regex
+2. NLTK
+3. Spacy
+4. Gensin
+
+#########################################################################################
+
+ML packages
+1. Sklearn
+
+####################################################################################
+
+Deep learning: Neural network
+1. Neurons 
+
+Packages Deep Learning:
+Tensorflow, Pytorch, Keras
+
+######################################################################################
+
+Text preprocessing :
+1. Unstructured data to structured
+2. Carryout patterns from the data
+3. Build a ML model on the text data
+
+##################################################################################
+Steps to build NLP model
+
+1. text preprocessing
+2. Bring the data into numeric form
+3. Build the ML model
+
+e.g: Very tasty receipy, I liked it a lot !
+
+###################################################################################
+
+Pretrained Models : API
+1. Fasttext (by Facebook)
+2. Tensorflow hub (by Google)
+3. GPT-3
+4. Hugging face
+
+########################################################################################
+
+Why NLP is so much popular nowadays!
+1. We have unstructured text data - comments, reviews, audio, photos, videos, emails.
+2. Open source programs 
+3. open source packages, or open source tools : python, sklearn
+   Github open source 
+4. Storage is easily available
+5. Learning resources
+6. Investments
+#####################################################################################
+
+Different tasks of NLP :
+
+1. Text classification :
+	a. positive sent or negative sent (sentiment analysis)
+2. Text similarities : Keywords - Python, ML, NLP
+3. Information extraction :
+
+#####################################################################################
+NLP model building stages :
+
+1. Data acquition
+2. Text cleaning
+3. text extraction
+4. text preprocessing
+5. Feature engineering : BOW, Word2vec, TFIDF, one hot encoding
+6. Build the ML model (Not all the NLP model requires ML)
+7. Evaluation
+8. Deployment
+9. Monitor and update
+
+#######################################################################################
+NLTK VS Spacy
+
+1. NLTK is text processing language
+2. Spacy is Object oriented language
+
+3. NLTK we can customise the steps
+4. Spacy  will come with pretrained models (no customization)
+
+#####################################################################################
+
+1. BOW 
+2. Word2vec
+
+Word2Vec : word to vector formation.
+
+vector : [set of numbers] : [1, 0,1,-1,0]
+
+It is a mathematical presentation
+
+      		King + Women = Queen
+
+		King       Vs 		Horse
+
+Strong		1			1
+
+Brave		1			0
+
+richness	1     			0
+
+Intelligent 	1			0
+
+Gender		1			-1	
+
+tail		0			1
+
+Eat apple	1			0.3
+
+
+King : [1 1 1 1 1 0] 		Horse:[1 0 0 0 -1 1] 
+
+Minimum 99 properties are specified for each word.
+
+
+Queen : [1 1 1 1 -1 0]
+
+Cosine similarity metrics
+
+		King -  	Man + 		women = Queen
+
+Authority	1		0.5		0.5  = 1		
+
+Tail		0		0		0    = 	0
+
+Rich		1		0.6		0.7  = 	1.1	
+
+Gender 		1		1		-1   = -1
+
+
+e.g : ISRO launched __ __ __ __ last month
+
+(Chandrayan, Rocket, Pizza)
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
